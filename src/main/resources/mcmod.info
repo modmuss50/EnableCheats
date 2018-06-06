@@ -1,0 +1,20 @@
+[
+{
+  "modid": "enablecheats",
+  "name": "Enable Cheats",
+  "description": "",
+  "version": "$version",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "modmuss50"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
