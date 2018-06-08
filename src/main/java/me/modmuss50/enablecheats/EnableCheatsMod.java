@@ -16,7 +16,7 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import java.util.List;
 import java.util.Optional;
 
-@Mod(modid = "enablecheats", name = "Enable Cheats", clientSideOnly = true, version = "@MODVERSION@")
+@Mod(modid = "enablecheats", name = "Enable Cheats", clientSideOnly = true, version = "@MODVERSION@", acceptedMinecraftVersions = "*")
 public class EnableCheatsMod {
 
 	GuiButton cheatsButton;
